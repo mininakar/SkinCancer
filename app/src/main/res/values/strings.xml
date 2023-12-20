@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CancerProject</string>
+    <string name="dp">Добро пожаловать!</string>
+    <string name="start">Мы хотим обратить ваше внимание! Для постановки точного диагноза  обратитесь к врачу.</string>
+    <!--    <string name="app_name">CancerProject</string>-->
+
+
+</resources>
